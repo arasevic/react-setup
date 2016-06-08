@@ -1,6 +1,6 @@
 # react-setup
-Everything you need to get going with react
-Commands run to create project:
+Everything you need to get going with react. <br />  
+Commands run to create project: <br />  
 `npm init` <br />  
 `npm install babel webpack webpack-dev-server -g` <br />  
 `npm install react rect-dom —save-dev` <br />  
