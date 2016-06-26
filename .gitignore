@@ -1,0 +1,5 @@
+# ignore error logs
+npm-debug.log
+
+# ignore node-modules
+node_modules
