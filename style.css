@@ -1,0 +1,34 @@
+* {
+  box-sizing: border-box;
+  color: #636363;
+  font-family: "Helvetica Neue", sans-serif;
+  font-size: 24px;
+  font-weight: 300;
+}
+
+body {
+  background: #EAEAEA;
+  margin: 50px 50px 0;
+}
+
+button {
+  background: navy;
+  border: none;
+  border-radius: 4px;
+  color: white;
+  cursor: pointer;
+  margin: 0 10px;
+  outline: none;
+  padding: 5px;
+  text-align: center;
+  min-width: 35px;
+}
+
+button:active {
+  position: relative;
+  top: 1px;
+}
+
+div {
+  margin: 15px 0;
+}
